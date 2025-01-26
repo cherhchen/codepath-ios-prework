@@ -42,6 +42,13 @@ Imgur Link: https://imgur.com/a/MVNfzjX
   - You can search in English and Chinese without having to click on additional buttons
   - You can enter input using handwriting, voice, and keyboard
 
+**App Idea:**
+I would like to create an app that involves storing and sharing cooking recipes.
+I think that food is an important aspect of people's cultures and lifestyles. 
+I want to make an app where you can easily record cooking recipes (in text, image, and video), rank your recipes in a tier list, and share recipes with friends.
+Advanced features may include giving personalized recomendations on what you should cook tonight based on the items you have at home or the patterns of meals that you have been cooking.
+Users may also discover recipes based on level of difficulty/effort and dietary restrictions.
+
 ## Notes
 
 I never had experience with Xcode or Swift, so I was sometimes confused on whether I was doing things right.
