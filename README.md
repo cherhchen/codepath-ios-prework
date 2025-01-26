@@ -1,4 +1,4 @@
-# Prework - *Color Me Mine*
+# Codepath IOS Prework - *Color Me Mine*
 
 Submitted by: **Cheryl Chen**
 
